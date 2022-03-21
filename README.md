@@ -5,7 +5,7 @@ Animated one page website
 
 Create Package Screen             |Track Package Screen            |
 :-------------------------:|:-------------------------:
-![](img/main.png) |  ![](img/collectionswitch.png) 
+![](img/Main.png) |  ![](img/collectionswitch.png) 
 
 
 ## Conclusion:
