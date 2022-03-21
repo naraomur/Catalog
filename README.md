@@ -1,4 +1,4 @@
-# Catalog for Agata Bielen Jewelry
+# Catalogue for Agata Bielen Jewelry
 Animated one page website made in 2021, February
 
 ## Snapshots of running page
